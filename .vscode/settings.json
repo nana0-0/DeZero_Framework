@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/nana/.pyenv/shims/python",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
